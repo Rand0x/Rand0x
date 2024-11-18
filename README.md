@@ -15,7 +15,7 @@ Right now, I'm focusing on **web hacking** to do **bug bounty hunting** and hope
 ---
 
 ### 🗿 Current Status
-- Learning for <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">CBBH</a>: Learning path complete, currently preparing
+Awaiting results after completing the CBBH Exam.
 
 ---
 
