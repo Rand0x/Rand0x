@@ -14,7 +14,8 @@ Right now, I'm focusing on **web hacking** to do **bug bounty hunting** and hope
 ---
 
 ### 🗿 Current Status
-idle
+- Employee
+- Bug Bounty Hunter
 
 ---
 
