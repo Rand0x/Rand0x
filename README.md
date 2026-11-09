@@ -14,7 +14,6 @@ Right now, I'm focusing on **web hacking** to do **bug bounty hunting**. Before 
 ---
 
 ### 🎓 Certificates
-- Jr Penetration Tester <a href="https://tryhackme.com/r/path/outline/jrpenetrationtester">@TryHackMe</a>
 - Certified Bug Bounty Hunter - 100 Points
 
 ---
